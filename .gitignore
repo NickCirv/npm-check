@@ -1,0 +1,4 @@
+node_modules/
+.npmcheckignore
+*.log
+.DS_Store

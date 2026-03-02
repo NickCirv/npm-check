@@ -1,0 +1,27 @@
+{
+  "name": "npm-check",
+  "version": "1.0.0",
+  "description": "Check npm packages for updates. Beautiful output, changelog previews, interactive upgrade.",
+  "type": "module",
+  "bin": {
+    "npm-check": "./index.js",
+    "ncu": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "npm",
+    "dependencies",
+    "updates"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/npm-check"
+  }
+}
