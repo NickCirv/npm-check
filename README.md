@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # npm-check
 > Check npm packages for updates. Beautiful output, changelog previews, interactive upgrade.
 
